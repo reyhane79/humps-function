@@ -22,7 +22,7 @@ is a hump function?](https://math.stackexchange.com/questions/123227/what-is-a-h
 رسم
 نمودار این تابع:
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)![1697798054516](image/README/1697798054516.png)
 
 حالا
 رسم نمودار تابع ![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
