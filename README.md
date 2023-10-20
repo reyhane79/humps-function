@@ -27,7 +27,7 @@ is a hump function?](https://math.stackexchange.com/questions/123227/what-is-a-h
 حالا
 رسم نمودار تابع ![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg)![1697798443801](image/README/1697798443801.png)![1697798454326](image/README/1697798454326.png)
 
 ![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg)
 
@@ -43,6 +43,8 @@ is a hump function?](https://math.stackexchange.com/questions/123227/what-is-a-h
 
 برنامه
 به این صورت عمل میکند:
+
+![1697798467349](image/README/1697798467349.png)
 
 برای
 5 مدل مختلف پارامترهای شبکه تنظیم شده و پس از آموزش شبکه، عملکرد آن مورد
@@ -61,7 +63,7 @@ is a hump function?](https://math.stackexchange.com/questions/123227/what-is-a-h
 نمودار
 loss و validation score برای حالت اول
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg)![1697798479239](image/README/1697798479239.png)
 
 حالت
 دوم : شبکه سه لایه ای، در لایه اول 30 نود، در لایه دوم 20 نود و در لایه آخر 10
@@ -82,7 +84,7 @@ loss و validation score برای حالت اول
 نمودار
 loss و validation score برای حالت دوم:
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg)![1697798489794](image/README/1697798489794.png)
 
 حالت
 سوم : شبکه تک لایه ای، در لایه اول 30 نود دارد. با اجرای 100 تکرار روال آموزش:
@@ -95,7 +97,7 @@ loss و validation score برای حالت دوم:
 نمودار
 loss و validation score برای حالت سوم:
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg)![1697798500964](image/README/1697798500964.png)
 
 حالت
 4 : همانطور که مشاهده میشود با یک لایه از نودها مدل به خوبی نمی تواند تابع را
@@ -110,7 +112,7 @@ loss و validation score برای حالت سوم:
 نمودار
 loss و validation score برای حالت چهارم:
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg)![1697798512188](image/README/1697798512188.png)
 
 حالت
 5 : همانطور که مشاهده میشود با یک لایه از نودها مدل به خوبی نمی تواند تابع را
@@ -129,7 +131,7 @@ loss و validation score برای حالت چهارم:
 نمودار
 loss و validation score برای حالت پنجم:
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg)![1697798528498](image/README/1697798528498.png)
 
 توضیح  پارامترهای موجود در جدول زیر:
 
@@ -162,7 +164,7 @@ loss مدلهای مختلف با هم:
 تقریب زدن تابع در 100 تکرار هستند. ضمنا همگرایی سریع مدل 1 و 2 به خوبی نمایان
 است.
 
-![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)
+![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg)![1697798568146](image/README/1697798568146.png)
 
 مقایسه
 عملکرد هرمدل براساس معیار mlp.score:
@@ -170,5 +172,7 @@ loss مدلهای مختلف با هم:
 در
 اینجا نیز برتری نسبی مدل 2 نسبت به مدل 1 قابل مشاهده است. این دو مدل عملکرد
 بهتری نسبت به مدلهای 3 و 5 دارند.
+
+![1697798576916](image/README/1697798576916.png)
 
 ![](file:///C:/Users/Reyhane/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg)
